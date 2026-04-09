@@ -2,7 +2,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Sidhartha Priyadarshi — Marketing Portfolio</title>
+<title>Sidhartha Priyadarshi - Marketing Portfolio</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Syne:wght@400;500;700;800&display=swap" rel="stylesheet">
@@ -384,7 +384,7 @@
   <div class="hero-number">SP</div>
   <p class="hero-tag">Marketing Portfolio</p>
   <h1>Brand &amp; <em>Growth</em><br>Marketing Lead</h1>
-  <p class="hero-sub">FMCG · Retail · Real Estate · EdTech — building brands that resonate, campaigns that convert, and stories that endure.</p>
+  <p class="hero-sub">FMCG · Retail · Real Estate · EdTech - building brands that resonate, campaigns that convert, and stories that endure.</p>
   <div class="hero-cta">
     <a href="#work" class="btn-primary">View Work ↓</a>
     <a href="#contact" class="btn-ghost">Get in Touch</a>
@@ -403,7 +403,7 @@
   </div>
   <div class="about-grid">
     <div class="about-statement reveal">
-      A marketer who lives at the intersection of <em>brand narrative</em> and performance — from zero-to-one launches to scaling established equity.
+      A marketer who lives at the intersection of <em>brand narrative</em> and performance - from zero-to-one launches to scaling established equity.
     </div>
     <div class="about-details">
       <div class="about-item reveal reveal-delay-1">
@@ -453,7 +453,7 @@
           <div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div>
         </div>
         <span class="card-type">TVC</span>
-        <p class="card-title">Unibic — Brand Commercial #1</p>
+        <p class="card-title">Unibic - Brand Commercial #1</p>
         <span class="card-arrow">Watch on YouTube →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=BAZoOoLMbW4" target="_blank" class="work-card">
@@ -462,7 +462,7 @@
           <div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div>
         </div>
         <span class="card-type">TVC</span>
-        <p class="card-title">Unibic — Brand Commercial #2</p>
+        <p class="card-title">Unibic - Brand Commercial #2</p>
         <span class="card-arrow">Watch on YouTube →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=lD4mjPrpYwo" target="_blank" class="work-card">
@@ -471,7 +471,7 @@
           <div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div>
         </div>
         <span class="card-type">TVC</span>
-        <p class="card-title">Unibic — Brand Commercial #3</p>
+        <p class="card-title">Unibic - Brand Commercial #3</p>
         <span class="card-arrow">Watch on YouTube →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=9If2Kkdx5zQ" target="_blank" class="work-card">
@@ -480,7 +480,7 @@
           <div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div>
         </div>
         <span class="card-type">TVC</span>
-        <p class="card-title">Unibic — Brand Commercial #4</p>
+        <p class="card-title">Unibic - Brand Commercial #4</p>
         <span class="card-arrow">Watch on YouTube →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=Sd5I7sirVJc" target="_blank" class="work-card">
@@ -489,7 +489,7 @@
           <div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div>
         </div>
         <span class="card-type">TVC</span>
-        <p class="card-title">Unibic — Brand Commercial #5</p>
+        <p class="card-title">Unibic - Brand Commercial #5</p>
         <span class="card-arrow">Watch on YouTube →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=ITcTkx_h1Wc" target="_blank" class="work-card">
@@ -498,7 +498,7 @@
           <div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div>
         </div>
         <span class="card-type">TVC</span>
-        <p class="card-title">Unibic — Brand Commercial #6</p>
+        <p class="card-title">Unibic - Brand Commercial #6</p>
         <span class="card-arrow">Watch on YouTube →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=_SmN9ttNfhc" target="_blank" class="work-card">
@@ -507,7 +507,7 @@
           <div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div>
         </div>
         <span class="card-type">TVC</span>
-        <p class="card-title">Unibic — Brand Commercial #7</p>
+        <p class="card-title">Unibic - Brand Commercial #7</p>
         <span class="card-arrow">Watch on YouTube →</span>
       </a>
     </div>
@@ -528,7 +528,7 @@
           <div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div>
         </div>
         <span class="card-type">Brand Film</span>
-        <p class="card-title">MilkLane — Brand Story Film #1</p>
+        <p class="card-title">MilkLane - Brand Story Film #1</p>
         <span class="card-arrow">Watch on YouTube →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=UUOnPTGMbQ8" target="_blank" class="work-card">
@@ -537,7 +537,7 @@
           <div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div>
         </div>
         <span class="card-type">Brand Film</span>
-        <p class="card-title">MilkLane — Brand Story Film #2</p>
+        <p class="card-title">MilkLane - Brand Story Film #2</p>
         <span class="card-arrow">Watch on YouTube →</span>
       </a>
     </div>
@@ -556,32 +556,32 @@
     <div class="cards-grid" style="margin-bottom:2.5rem;">
       <a href="https://www.youtube.com/watch?v=GIRSiv3_Ydk" target="_blank" class="work-card">
         <div class="yt-thumb"><img src="https://img.youtube.com/vi/GIRSiv3_Ydk/mqdefault.jpg" alt="EasyBuy"><div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div></div>
-        <span class="card-type">Digital TVC</span><p class="card-title">EasyBuy — Digital Campaign #1</p>
+        <span class="card-type">Digital TVC</span><p class="card-title">EasyBuy - Digital Campaign #1</p>
         <span class="card-arrow">Watch →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=HyBm-Fu75uw" target="_blank" class="work-card">
         <div class="yt-thumb"><img src="https://img.youtube.com/vi/HyBm-Fu75uw/mqdefault.jpg" alt="EasyBuy"><div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div></div>
-        <span class="card-type">Digital TVC</span><p class="card-title">EasyBuy — Digital Campaign #2</p>
+        <span class="card-type">Digital TVC</span><p class="card-title">EasyBuy - Digital Campaign #2</p>
         <span class="card-arrow">Watch →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=b3_e3Srzwmc" target="_blank" class="work-card">
         <div class="yt-thumb"><img src="https://img.youtube.com/vi/b3_e3Srzwmc/mqdefault.jpg" alt="EasyBuy"><div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div></div>
-        <span class="card-type">Digital TVC</span><p class="card-title">EasyBuy — Digital Campaign #3</p>
+        <span class="card-type">Digital TVC</span><p class="card-title">EasyBuy - Digital Campaign #3</p>
         <span class="card-arrow">Watch →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=1M-8JQDjyso" target="_blank" class="work-card">
         <div class="yt-thumb"><img src="https://img.youtube.com/vi/1M-8JQDjyso/mqdefault.jpg" alt="EasyBuy"><div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div></div>
-        <span class="card-type">Digital TVC</span><p class="card-title">EasyBuy — Digital Campaign #4</p>
+        <span class="card-type">Digital TVC</span><p class="card-title">EasyBuy - Digital Campaign #4</p>
         <span class="card-arrow">Watch →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=hB1n9lIxfxk" target="_blank" class="work-card">
         <div class="yt-thumb"><img src="https://img.youtube.com/vi/hB1n9lIxfxk/mqdefault.jpg" alt="EasyBuy"><div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div></div>
-        <span class="card-type">Digital TVC</span><p class="card-title">EasyBuy — Digital Campaign #5</p>
+        <span class="card-type">Digital TVC</span><p class="card-title">EasyBuy - Digital Campaign #5</p>
         <span class="card-arrow">Watch →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=CMkbgeV_IOQ" target="_blank" class="work-card">
         <div class="yt-thumb"><img src="https://img.youtube.com/vi/CMkbgeV_IOQ/mqdefault.jpg" alt="EasyBuy"><div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div></div>
-        <span class="card-type">Digital TVC</span><p class="card-title">EasyBuy — Digital Campaign #6</p>
+        <span class="card-type">Digital TVC</span><p class="card-title">EasyBuy - Digital Campaign #6</p>
         <span class="card-arrow">Watch →</span>
       </a>
     </div>
@@ -592,7 +592,7 @@
         <span class="pr-num">01</span>
         <div class="pr-body">
           <div class="pr-source">Indian Retailer</div>
-          <div class="pr-title">EasyBuy Lights Up Dharmapuri — 32nd Store Launch</div>
+          <div class="pr-title">EasyBuy Lights Up Dharmapuri - 32nd Store Launch</div>
         </div>
         <span class="pr-arrow">↗</span>
       </a>
@@ -608,7 +608,7 @@
         <span class="pr-num">03</span>
         <div class="pr-body">
           <div class="pr-source">Media Infoline</div>
-          <div class="pr-title">EasyBuy — New-Look Exclusive Outlet in Dharmapuri</div>
+          <div class="pr-title">EasyBuy - New-Look Exclusive Outlet in Dharmapuri</div>
         </div>
         <span class="pr-arrow">↗</span>
       </a>
@@ -630,18 +630,18 @@
       <span class="brand-tag">Commercial Real Estate</span>
       <div class="brand-divider"></div>
     </div>
-    <p style="font-family:'Cormorant Garamond',serif;font-size:1rem;color:var(--text-muted);margin-bottom:1.8rem;line-height:1.7;">Full-funnel brand marketing — web, PR, thought leadership, and video collaborations for one of India's fastest-growing workspace companies.</p>
+    <p style="font-family:'Cormorant Garamond',serif;font-size:1rem;color:var(--text-muted);margin-bottom:1.8rem;line-height:1.7;">Full-funnel brand marketing - web, PR, thought leadership, and video collaborations for one of India's fastest-growing workspace companies.</p>
 
     <p style="font-size:0.65rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--warm);margin-bottom:1rem;">Web &amp; Brand Pages</p>
     <div class="cards-grid" style="margin-bottom:2.5rem;">
       <a href="https://indiqube.com/rishi-das-indiqube/" target="_blank" class="work-card">
         <span class="card-type">Web</span>
-        <p class="card-title">Founder Profile — Rishi Das</p>
+        <p class="card-title">Founder Profile - Rishi Das</p>
         <span class="card-arrow">View Page →</span>
       </a>
       <a href="https://indiqube.com/meghna-agarwal-indiqube/" target="_blank" class="work-card">
         <span class="card-type">Web</span>
-        <p class="card-title">Founder Profile — Meghna Agarwal</p>
+        <p class="card-title">Founder Profile - Meghna Agarwal</p>
         <span class="card-arrow">View Page →</span>
       </a>
       <a href="https://indiqube.com/officefurniture/" target="_blank" class="work-card">
@@ -665,37 +665,37 @@
     <div class="pr-list" style="margin-bottom:2.5rem;">
       <a href="https://www.fortuneindia.com/rankings/most-powerful-women/2025" target="_blank" class="pr-card">
         <span class="pr-num">01</span>
-        <div class="pr-body"><div class="pr-source">Fortune India</div><div class="pr-title">Most Powerful Women 2025 — IndiQube Founder Featured</div></div>
+        <div class="pr-body"><div class="pr-source">Fortune India</div><div class="pr-title">Most Powerful Women 2025 - IndiQube Founder Featured</div></div>
         <span class="pr-arrow">↗</span>
       </a>
       <a href="https://www.financialexpress.com/business/industry-the-big-idea-indiqube-4016457/" target="_blank" class="pr-card">
         <span class="pr-num">02</span>
-        <div class="pr-body"><div class="pr-source">Financial Express</div><div class="pr-title">The Big Idea — IndiQube</div></div>
+        <div class="pr-body"><div class="pr-source">Financial Express</div><div class="pr-title">The Big Idea - IndiQube</div></div>
         <span class="pr-arrow">↗</span>
       </a>
       <a href="https://yourstory.com/2025/11/record-revenues-rising-profitability-expanding-cities-indiqube-delivers-breakout-quarter" target="_blank" class="pr-card">
         <span class="pr-num">03</span>
-        <div class="pr-body"><div class="pr-source">YourStory</div><div class="pr-title">Record Revenues &amp; Rising Profitability — IndiQube Breakout Quarter</div></div>
+        <div class="pr-body"><div class="pr-source">YourStory</div><div class="pr-title">Record Revenues &amp; Rising Profitability - IndiQube Breakout Quarter</div></div>
         <span class="pr-arrow">↗</span>
       </a>
       <a href="https://indiqube.com/indiqube-founders-hurun-india-top-200-2025/" target="_blank" class="pr-card">
         <span class="pr-num">04</span>
-        <div class="pr-body"><div class="pr-source">Hurun India / IndiQube</div><div class="pr-title">IndiQube Founders — Hurun India Top 200, 2025</div></div>
+        <div class="pr-body"><div class="pr-source">Hurun India / IndiQube</div><div class="pr-title">IndiQube Founders - Hurun India Top 200, 2025</div></div>
         <span class="pr-arrow">↗</span>
       </a>
       <a href="https://www.outlookbusiness.com/corporate/id-rather-be-known-for-building-well-than-building-as-a-woman-meghna-agarwal" target="_blank" class="pr-card">
         <span class="pr-num">05</span>
-        <div class="pr-body"><div class="pr-source">Outlook Business</div><div class="pr-title">Meghna Agarwal — Leadership Interview</div></div>
+        <div class="pr-body"><div class="pr-source">Outlook Business</div><div class="pr-title">Meghna Agarwal - Leadership Interview</div></div>
         <span class="pr-arrow">↗</span>
       </a>
       <a href="https://www.businessworld.in/article/100-most-influential-women-2026-driving-india-s-700-bn-economic-opportunity-596723" target="_blank" class="pr-card">
         <span class="pr-num">06</span>
-        <div class="pr-body"><div class="pr-source">Business World</div><div class="pr-title">100 Most Influential Women 2026 — IndiQube Founder</div></div>
+        <div class="pr-body"><div class="pr-source">Business World</div><div class="pr-title">100 Most Influential Women 2026 - IndiQube Founder</div></div>
         <span class="pr-arrow">↗</span>
       </a>
       <a href="https://www.exchange4media.com/pr-and-corporate-communication-news/international-womens-day-2026-women-leaders-on-why-giving-is-the-real-growth-enabler-152660.html" target="_blank" class="pr-card">
         <span class="pr-num">07</span>
-        <div class="pr-body"><div class="pr-source">Exchange4Media</div><div class="pr-title">Women Leaders on Growth Enablers — IWD 2026</div></div>
+        <div class="pr-body"><div class="pr-source">Exchange4Media</div><div class="pr-title">Women Leaders on Growth Enablers - IWD 2026</div></div>
         <span class="pr-arrow">↗</span>
       </a>
     </div>
@@ -704,51 +704,51 @@
     <div class="cards-grid">
       <a href="https://www.youtube.com/watch?v=NzG-BNfvnhs" target="_blank" class="work-card">
         <div class="yt-thumb"><img src="https://img.youtube.com/vi/NzG-BNfvnhs/mqdefault.jpg" alt="IndiQube"><div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div></div>
-        <span class="card-type">Video Collab</span><p class="card-title">IndiQube — Thought Leadership #1</p><span class="card-arrow">Watch →</span>
+        <span class="card-type">Video Collab</span><p class="card-title">IndiQube - Thought Leadership #1</p><span class="card-arrow">Watch →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=br0rRDmXCh8" target="_blank" class="work-card">
         <div class="yt-thumb"><img src="https://img.youtube.com/vi/br0rRDmXCh8/mqdefault.jpg" alt="IndiQube"><div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div></div>
-        <span class="card-type">Video Collab</span><p class="card-title">IndiQube — Thought Leadership #2</p><span class="card-arrow">Watch →</span>
+        <span class="card-type">Video Collab</span><p class="card-title">IndiQube - Thought Leadership #2</p><span class="card-arrow">Watch →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=-qePS4fmles" target="_blank" class="work-card">
         <div class="yt-thumb"><img src="https://img.youtube.com/vi/-qePS4fmles/mqdefault.jpg" alt="IndiQube"><div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div></div>
-        <span class="card-type">Video Collab</span><p class="card-title">IndiQube — Thought Leadership #3</p><span class="card-arrow">Watch →</span>
+        <span class="card-type">Video Collab</span><p class="card-title">IndiQube - Thought Leadership #3</p><span class="card-arrow">Watch →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=hJxGAKQDZ70" target="_blank" class="work-card">
         <div class="yt-thumb"><img src="https://img.youtube.com/vi/hJxGAKQDZ70/mqdefault.jpg" alt="IndiQube"><div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div></div>
-        <span class="card-type">Video Collab</span><p class="card-title">IndiQube — Thought Leadership #4</p><span class="card-arrow">Watch →</span>
+        <span class="card-type">Video Collab</span><p class="card-title">IndiQube - Thought Leadership #4</p><span class="card-arrow">Watch →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=jIeQY_LVzOA" target="_blank" class="work-card">
         <div class="yt-thumb"><img src="https://img.youtube.com/vi/jIeQY_LVzOA/mqdefault.jpg" alt="IndiQube"><div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div></div>
-        <span class="card-type">Video Collab</span><p class="card-title">IndiQube — Video Feature #5</p><span class="card-arrow">Watch →</span>
+        <span class="card-type">Video Collab</span><p class="card-title">IndiQube - Video Feature #5</p><span class="card-arrow">Watch →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=MzwzHuYoVi0" target="_blank" class="work-card">
         <div class="yt-thumb"><img src="https://img.youtube.com/vi/MzwzHuYoVi0/mqdefault.jpg" alt="IndiQube"><div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div></div>
-        <span class="card-type">Video Collab</span><p class="card-title">IndiQube — Video Feature #6</p><span class="card-arrow">Watch →</span>
+        <span class="card-type">Video Collab</span><p class="card-title">IndiQube - Video Feature #6</p><span class="card-arrow">Watch →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=kNsxhdtVURw" target="_blank" class="work-card">
         <div class="yt-thumb"><img src="https://img.youtube.com/vi/kNsxhdtVURw/mqdefault.jpg" alt="IndiQube"><div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div></div>
-        <span class="card-type">Video Collab</span><p class="card-title">IndiQube — Video Feature #7</p><span class="card-arrow">Watch →</span>
+        <span class="card-type">Video Collab</span><p class="card-title">IndiQube - Video Feature #7</p><span class="card-arrow">Watch →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=2nH4Ho6y4G0" target="_blank" class="work-card">
         <div class="yt-thumb"><img src="https://img.youtube.com/vi/2nH4Ho6y4G0/mqdefault.jpg" alt="IndiQube"><div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div></div>
-        <span class="card-type">Video Collab</span><p class="card-title">IndiQube — Video Feature #8</p><span class="card-arrow">Watch →</span>
+        <span class="card-type">Video Collab</span><p class="card-title">IndiQube - Video Feature #8</p><span class="card-arrow">Watch →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=2u5dFYng950" target="_blank" class="work-card">
         <div class="yt-thumb"><img src="https://img.youtube.com/vi/2u5dFYng950/mqdefault.jpg" alt="IndiQube"><div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div></div>
-        <span class="card-type">Video Collab</span><p class="card-title">IndiQube — Video Feature #9</p><span class="card-arrow">Watch →</span>
+        <span class="card-type">Video Collab</span><p class="card-title">IndiQube - Video Feature #9</p><span class="card-arrow">Watch →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=QtEiUcyr9IY" target="_blank" class="work-card">
         <div class="yt-thumb"><img src="https://img.youtube.com/vi/QtEiUcyr9IY/mqdefault.jpg" alt="IndiQube"><div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div></div>
-        <span class="card-type">Video Collab</span><p class="card-title">IndiQube — Video Feature #10</p><span class="card-arrow">Watch →</span>
+        <span class="card-type">Video Collab</span><p class="card-title">IndiQube - Video Feature #10</p><span class="card-arrow">Watch →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=6165UxGT9A4" target="_blank" class="work-card">
         <div class="yt-thumb"><img src="https://img.youtube.com/vi/6165UxGT9A4/mqdefault.jpg" alt="IndiQube"><div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div></div>
-        <span class="card-type">Video Collab</span><p class="card-title">IndiQube — Video Feature #11</p><span class="card-arrow">Watch →</span>
+        <span class="card-type">Video Collab</span><p class="card-title">IndiQube - Video Feature #11</p><span class="card-arrow">Watch →</span>
       </a>
       <a href="https://www.youtube.com/watch?v=hL1CY8ziXYo" target="_blank" class="work-card">
         <div class="yt-thumb"><img src="https://img.youtube.com/vi/hL1CY8ziXYo/mqdefault.jpg" alt="IndiQube"><div class="yt-play"><svg viewBox="0 0 10 12"><polygon points="0,0 10,6 0,12"/></svg></div></div>
-        <span class="card-type">Video Collab</span><p class="card-title">IndiQube — Video Feature #12</p><span class="card-arrow">Watch →</span>
+        <span class="card-type">Video Collab</span><p class="card-title">IndiQube - Video Feature #12</p><span class="card-arrow">Watch →</span>
       </a>
     </div>
   </div>
@@ -757,7 +757,7 @@
 <!-- CONTACT -->
 <section id="contact">
   <div class="contact-inner">
-    <p class="contact-eyebrow reveal">03 — Let's Talk</p>
+    <p class="contact-eyebrow reveal">03 - Let's Talk</p>
     <h2 class="contact-heading reveal">Open to<br><em>new opportunities.</em></h2>
     <div class="contact-links reveal">
       <a href="mailto:sidhartha@email.com" class="contact-link">
