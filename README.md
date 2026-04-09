@@ -367,7 +367,6 @@
 
 <div class="cursor" id="cursor"></div>
 <div class="cursor-ring" id="cursorRing"></div>
-
 <!-- NAV -->
 <nav>
   <a href="#" class="nav-logo">Sidhartha <span>Priyadarshi</span></a>
@@ -377,7 +376,6 @@
     <li><a href="#contact">Contact</a></li>
   </ul>
 </nav>
-
 <!-- HERO -->
 <section class="hero" id="home">
   <div class="hero-bg"></div>
@@ -394,7 +392,6 @@
     <span>Scroll</span>
   </div>
 </section>
-
 <!-- ABOUT -->
 <section id="about">
   <div class="section-header reveal">
@@ -436,7 +433,6 @@
     <span class="section-num">02</span>
     <span class="section-title">Selected Work</span>
   </div>
-
   <!-- UNIBIC -->
   <div class="brand-block reveal">
     <div class="brand-header">
@@ -512,7 +508,6 @@
       </a>
     </div>
   </div>
-
   <!-- MILKLANE -->
   <div class="brand-block reveal">
     <div class="brand-header">
@@ -542,7 +537,6 @@
       </a>
     </div>
   </div>
-
   <!-- EASYBUY -->
   <div class="brand-block reveal">
     <div class="brand-header">
@@ -551,7 +545,6 @@
       <div class="brand-divider"></div>
     </div>
     <p style="font-family:'Cormorant Garamond',serif;font-size:1rem;color:var(--text-muted);margin-bottom:1.8rem;line-height:1.7;">NSO launches, digital TVCs, and PR coverage for Landmark Group's value fashion retail chain across India.</p>
-
     <p style="font-size:0.65rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--warm);margin-bottom:1rem;">Digital TVCs</p>
     <div class="cards-grid" style="margin-bottom:2.5rem;">
       <a href="https://www.youtube.com/watch?v=GIRSiv3_Ydk" target="_blank" class="work-card">
@@ -585,7 +578,6 @@
         <span class="card-arrow">Watch →</span>
       </a>
     </div>
-
     <p style="font-size:0.65rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--warm);margin-bottom:1rem;">PR Coverage</p>
     <div class="pr-list">
       <a href="https://www.indianretailer.com/news/landmark-groups-easybuy-lights-dharmapuri-32nd-store-steals-retail-spotlight" target="_blank" class="pr-card">
@@ -622,7 +614,6 @@
       </a>
     </div>
   </div>
-
   <!-- INDIQUBE -->
   <div class="brand-block reveal">
     <div class="brand-header">
@@ -631,7 +622,6 @@
       <div class="brand-divider"></div>
     </div>
     <p style="font-family:'Cormorant Garamond',serif;font-size:1rem;color:var(--text-muted);margin-bottom:1.8rem;line-height:1.7;">Full-funnel brand marketing - web, PR, thought leadership, and video collaborations for one of India's fastest-growing workspace companies.</p>
-
     <p style="font-size:0.65rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--warm);margin-bottom:1rem;">Web &amp; Brand Pages</p>
     <div class="cards-grid" style="margin-bottom:2.5rem;">
       <a href="https://indiqube.com/rishi-das-indiqube/" target="_blank" class="work-card">
@@ -660,7 +650,6 @@
         <span class="card-arrow">View Page →</span>
       </a>
     </div>
-
     <p style="font-size:0.65rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--warm);margin-bottom:1rem;">PR &amp; Media Coverage</p>
     <div class="pr-list" style="margin-bottom:2.5rem;">
       <a href="https://www.fortuneindia.com/rankings/most-powerful-women/2025" target="_blank" class="pr-card">
@@ -699,7 +688,6 @@
         <span class="pr-arrow">↗</span>
       </a>
     </div>
-
     <p style="font-size:0.65rem;letter-spacing:0.2em;text-transform:uppercase;color:var(--warm);margin-bottom:1rem;">Video Collaborations &amp; Thought Leadership</p>
     <div class="cards-grid">
       <a href="https://www.youtube.com/watch?v=NzG-BNfvnhs" target="_blank" class="work-card">
@@ -753,7 +741,6 @@
     </div>
   </div>
 </section>
-
 <!-- CONTACT -->
 <section id="contact">
   <div class="contact-inner">
@@ -771,16 +758,14 @@
       <a href="https://drive.google.com" target="_blank" class="contact-link">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
         Download CV
-      </a>
-    </div>
-  </div>
+          </a>
+      <a href="https://drive.google.com/file/d/1-DZvzTGCOPr7VrsdTRLU0Y0wD8Z2F5on/view?usp=sharing" target="_blank" class="contact-link">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
 </section>
-
 <footer>
   <span>© 2026 Sidhartha Priyadarshi</span>
-  <span>Bengaluru, India</span>
+  <span>Global Indian</span>
 </footer>
-
 <script>
   // Custom cursor
   const cursor = document.getElementById('cursor');
@@ -798,7 +783,6 @@
     el.addEventListener('mouseenter', () => { cursor.style.width = '18px'; cursor.style.height = '18px'; ring.style.width = '54px'; ring.style.height = '54px'; });
     el.addEventListener('mouseleave', () => { cursor.style.width = '10px'; cursor.style.height = '10px'; ring.style.width = '36px'; ring.style.height = '36px'; });
   });
-
   // Scroll reveal
   const reveals = document.querySelectorAll('.reveal');
   const observer = new IntersectionObserver(entries => {
