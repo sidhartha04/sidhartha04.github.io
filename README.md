@@ -763,7 +763,7 @@
   </div>
 </section>
 <footer>
-  <span>© 2026 Sidhartha Priyadarshi - </span>
+  <span>© 2026 Sidhartha Priyadarshi </span>
   <span>Global Indian</span>
 </footer>
 
