@@ -755,17 +755,20 @@
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
         LinkedIn
       </a>
-      <a href="https://drive.google.com" target="_blank" class="contact-link">
+      <a href="https://drive.google.com/file/d/1-DZvzTGCOPr7VrsdTRLU0Y0wD8Z2F5on/view?usp=sharing" target="_blank" class="contact-link">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
         Download CV
-          </a>
-      <a href="https://drive.google.com/file/d/1-DZvzTGCOPr7VrsdTRLU0Y0wD8Z2F5on/view?usp=sharing" target="_blank" class="contact-link">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+           </a>
+    </div>
+  </div>
+
 </section>
+        
 <footer>
-  <span>© 2026 Sidhartha Priyadarshi</span>
+  <span>© 2026 Sidhartha Priyadarshi - </span>
   <span>Global Indian</span>
 </footer>
+
 <script>
   // Custom cursor
   const cursor = document.getElementById('cursor');
