@@ -1,4 +1,3 @@
-# sidhartha04.github.io
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -7,7 +6,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Syne:wght@400;500;700;800&display=swap" rel="stylesheet">
-
 <style>
   :root {
     --ink: #0e0c0a;
@@ -19,7 +17,6 @@
     --border: rgba(200,169,126,0.18);
     --text-muted: rgba(242,237,230,0.45);
   }
-
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
   html { scroll-behavior: smooth; }
