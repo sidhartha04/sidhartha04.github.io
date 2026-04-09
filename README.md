@@ -384,7 +384,7 @@
   <div class="hero-number">SP</div>
   <p class="hero-tag">Marketing Portfolio</p>
   <h1>Brand &amp; <em>Growth</em><br>Marketing Lead</h1>
-  <p class="hero-sub">FMCG · Retail · Real Estate · EdTech - building brands that resonate, campaigns that convert, and stories that endure.</p>
+  <p class="hero-sub">FMCG · Retail · Real Estate · Hospitality - building brands that resonate, campaigns that convert, and stories that endure.</p>
   <div class="hero-cta">
     <a href="#work" class="btn-primary">View Work ↓</a>
     <a href="#contact" class="btn-ghost">Get in Touch</a>
@@ -760,7 +760,7 @@
     <p class="contact-eyebrow reveal">03 - Let's Talk</p>
     <h2 class="contact-heading reveal">Open to<br><em>new opportunities.</em></h2>
     <div class="contact-links reveal">
-      <a href="mailto:sidhartha@email.com" class="contact-link">
+      <a href="mailto:siddharth.indy@gmail.com" class="contact-link">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
         Email Me
       </a>
