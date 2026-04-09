@@ -381,7 +381,7 @@
   <div class="hero-bg"></div>
   <div class="hero-number">SP</div>
   <p class="hero-tag">Marketing Portfolio</p>
-  <h1>Brand, Comm &amp; <em>Growth </em>Marketing Lead</h1>
+  <h1>Brand, Comm &amp; <em>Growth </em>MarketingLead</h1>
   <p class="hero-sub">FMCG · Retail · Real Estate · Hospitality - building brands that resonate, campaigns that convert, and stories that endure.</p>
   <div class="hero-cta">
     <a href="#work" class="btn-primary">View Work ↓</a>
