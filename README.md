@@ -422,7 +422,7 @@
       </div>
       <div class="about-item reveal reveal-delay-3">
         <label>Industries</label>
-        <p>FMCG (Unibic Cookies,Dukes Waffy) · Hospitality (Rajdhani, Rasovara, Cafe Mangii, Socials)· Dairy (MilkLane) · Retail Grocery & Fashion (Reliance Retail / Landmark Group) · Commercial Real Estate (IndiQube)</p>
+        <p>FMCG (Unibic Cookies, Dukes Waffy) · Hospitality (Rajdhani, Rasovara, Cafe Mangii, Socials)· Dairy (MilkLane) · Retail Grocery & Fashion (Reliance Retail / Landmark Group) · Commercial Real Estate (IndiQube)</p>
       </div>
     </div>
   </div>
