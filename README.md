@@ -430,7 +430,6 @@
     </div>
   </div>
 </section>
-
 <!-- WORK -->
 <section id="work">
   <div class="section-header reveal">
