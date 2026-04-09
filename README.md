@@ -18,9 +18,7 @@
     --text-muted: rgba(242,237,230,0.45);
   }
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
   html { scroll-behavior: smooth; }
-
   body {
     background: var(--ink);
     color: var(--cream);
@@ -28,7 +26,6 @@
     overflow-x: hidden;
     cursor: none;
   }
-
   /* Custom cursor */
   .cursor {
     position: fixed; width: 10px; height: 10px;
@@ -428,7 +425,7 @@
       </div>
       <div class="about-item reveal reveal-delay-3">
         <label>Industries</label>
-        <p>FMCG (Unibic) · Dairy (MilkLane) · Retail Fashion (EasyBuy / Landmark Group) · Commercial Real Estate (IndiQube)</p>
+        <p>FMCG (Unibic Cookies,Dukes Waffy) · Hospitality (Rajdhani, Rasovara, Cafe Mangii, Socials)· Dairy (MilkLane) · Retail Grocery & Fashion (Reliance Retail / Landmark Group) · Commercial Real Estate (IndiQube)</p>
       </div>
     </div>
   </div>
